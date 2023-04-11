@@ -6,7 +6,7 @@ This is my Currency-Converter - nothing complicated, simple code as part of the 
 
 # Demo
 
-https://github.com/Soniq7/Currency-Converter.git
+https://soniq7.github.io/Currency-Converter/
 
 
 
