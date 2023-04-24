@@ -21,7 +21,7 @@ Application allows numbers after the decimal point, only by using the dot.
 ## Techlonolgy used:
 
  - HTML Syntax: body, form, fildset, legend, label, span, input, paragraph, div, a - link
- - CSS box model, normalize css, styling form and links, fonts, background image 
+ - CSS box model, box-sizing, normalize css, styling form and links, fonts, background image 
  - BEM convention
  - ES6+ features
  - JS Arrow functions, switch, numbers, strings, event.preventDefault 
