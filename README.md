@@ -8,8 +8,8 @@ Introducing Currency-Converter which is a simple currency exchange application, 
 ## Description
 
 Application includes conversion from GBP to EUR, PLN and USD. 
-All exchange rates are fixed, based on British Pund exchange rates table (dated 28th March), from x-rates.com website.
-Application allows numbers after the decimal point, only by using the dot.
+All exchange rates are fixed, based on British Pound exchange rates table (dated 28th March), from x-rates.com website.
+Application allows numbers after the decimal point, only by using "dot".
 
 ## Programing languages used:
 
