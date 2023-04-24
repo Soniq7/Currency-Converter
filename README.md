@@ -2,7 +2,7 @@
 
 Hello!
 
-Introducing my Currency-Converter which is a simple currency exchange application, created as part of YouCode course study.
+Introducing Currency-Converter which is a simple currency exchange application, created as part of YouCode course study.
 
 ![Currency-Converter](https://raw.githubusercontent.com/Soniq7/Currency-Converter/main/images/share.png)
 ## Description
