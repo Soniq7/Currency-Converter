@@ -11,7 +11,7 @@ Application includes conversion from GBP to EUR, PLN and USD.
 All exchange rates are fixed, based on British Pound exchange rates table (dated 28th March), from x-rates.com website.
 Application allows numbers after the decimal point, only by using "dot".
 
-## Programing languages used:
+## Programming languages used:
 
 - HTML
 - CSS
@@ -20,7 +20,6 @@ Application allows numbers after the decimal point, only by using "dot".
 
 ## Techlonolgy used:
 
- - HTML Syntax: body, form, fildset, legend, label, span, input, paragraph, div, a - link
  - CSS box model, box-sizing, normalize css, styling form and links, fonts, background image 
  - BEM convention
  - ES6+ features
