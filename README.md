@@ -4,7 +4,7 @@ Hello!
 
 Introducing Currency-Converter which is a simple currency exchange application, created as part of YouCode course study.
 
-![Currency-Converter](https://raw.githubusercontent.com/Soniq7/Currency-Converter/main/images/share.png)
+![Currency-Converter](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWIyNzQ0YzZiOWUyMzFiMTcxNGVkZTI3NGI1ZmY1ZDdkMzMzNjIyNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/TPX9FlvvKtjmXHuSRx/giphy.gif)
 ## Description
 
 Application includes conversion from GBP to EUR, PLN and USD. 
